@@ -1,1 +1,1 @@
-<"get Your Link">customer_id=<<customer_id>>&customer_name=<<p_display_name>>&content=<<keyword>>
+<"get Your Link">?customer_id=<<customer_id>>&customer_name=<<p_display_name>>&content=<<keyword>>
