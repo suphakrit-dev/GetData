@@ -1,6 +1,6 @@
 function doGet(request){
  // Change Spread Sheet url
- var ss = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/1OuKr0pD0FosACTw3z2xPujq-FTpdkExgFHXhQY--7Vk/edit?usp=sharing");
+ var ss = SpreadsheetApp.openByUrl(" ");
  var customer_id = request.parameter.customer_id
  var customer_name = request.parameter.customer_name
  var content = request.parameter.content
